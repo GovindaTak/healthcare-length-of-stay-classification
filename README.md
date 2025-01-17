@@ -2,16 +2,6 @@
 A deep learning project predicting the length of stay (LOS) for patients in hospitals using a multiclass classification approach. The project leverages PyTorch to implement a robust neural network model with advanced regularization techniques, aiming to optimize healthcare resource allocation.
 ------------------
 
-### Repository Name  
-`healthcare-length-of-stay-classification`
-
----
-
-### Repository Description  
-A deep learning project aimed at predicting hospital patient length of stay (LOS) for efficient healthcare management. The model leverages advanced preprocessing, visualization, and a fully connected neural network to classify LOS into 11 distinct categories, optimizing hospital logistics and patient management.
-
----
-
 ## Overview  
 This project focuses on predicting the **Length of Stay (LOS)** for hospital patients as part of healthcare management. By leveraging **deep learning techniques**, the model classifies patients into 11 distinct categories based on their expected LOS. Accurate predictions help optimize healthcare logistics, improve patient management, and reduce operational inefficiencies.
 
